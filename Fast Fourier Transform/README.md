@@ -1,6 +1,7 @@
 fft.py
 =========
 This script performs the FFT of time-domain signal.
+
 Requirements:
 1) python 3.X
 2) Python libraries numpy, scipy, wx, matplotlib
@@ -8,6 +9,7 @@ Requirements:
 ifft.py
 =========
 This script performs the inverse FFT of frequency-domain signal.
+
 Requirements:
 1) python 3.X
 2) Python libraries numpy, scipy, wx, matplotlib
